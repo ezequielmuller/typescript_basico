@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "build": "npx tsc --build",
+    "dev": "node ./dist/funcoes.js"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.2"
+  }
+}
