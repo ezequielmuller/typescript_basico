@@ -1,1 +1,1 @@
-{"root":["./src/array.ts","./src/funcoes.ts","./src/inferencia.ts","./src/introducao.ts","./src/objeto.ts","./src/tipagem.ts","./src/tipagem_multipla.ts","./src/tipo_any.ts","./src/type.ts"],"version":"5.9.2"}
+{"root":["./src/2classes.ts","./src/2functions.ts","./src/2inferencia.ts","./src/2interfaces.ts","./src/2tipos.ts","./src/app.ts","./src/array.ts","./src/funcoes.ts","./src/generics.ts","./src/inferencia.ts","./src/introducao.ts","./src/objeto.ts","./src/shapes.ts","./src/tipagem.ts","./src/tipagem_multipla.ts","./src/tipo_any.ts","./src/type.ts"],"version":"5.9.2"}

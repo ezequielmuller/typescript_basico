@@ -1,7 +1,8 @@
 {
+  "type": "module",
   "scripts": {
     "build": "npx tsc --build",
-    "dev": "node ./dist/funcoes.js"
+    "dev": "node ./dist/generics.js"
   },
   "devDependencies": {
     "typescript": "^5.9.2"

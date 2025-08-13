@@ -1,5 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 // Atribui o TIPO 
 let pessoa = {
     nome: 'Ezequiel',
@@ -13,3 +11,4 @@ let pessoa = {
     },
     ativo: true
 };
+export {};
